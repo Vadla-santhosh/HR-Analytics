@@ -1,1 +1,1 @@
-# HR-Analytics
+# MeriSKILL Internship
